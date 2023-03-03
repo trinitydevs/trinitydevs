@@ -1,4 +1,3 @@
-### Bem vindo, Dev!
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-ff6384?style=for-the-badge&logo=LINKEDIN&logoColor=black&text_color=dcdcdc)](https://www.linkedin.com/in/trinitydomingues/) 
 
