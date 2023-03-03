@@ -4,7 +4,7 @@
 
 ##### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[![Linkedin](https://img.shields.io/badge/Flutter-ff6384?style=for-the-badge&logo=flutter&logoColor=black&text_color=dcdcdc)]() [![Linkedin](https://img.shields.io/badge/Eclipse-00000F?style=for-the-badge&logo=eclipse&logoColor=pink&text_color=dcdcdc)]() [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=pink&text_color=dcdcdc)]()
+[![](https://img.shields.io/badge/Flutter-ff6384?style=for-the-badge&logo=flutter&logoColor=black&text_color=dcdcdc)]() [![Linkedin](https://img.shields.io/badge/Eclipse-00000F?style=for-the-badge&logo=eclipse&logoColor=pink&text_color=dcdcdc)]() [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=pink&text_color=dcdcdc&hide_border=true)]()
 
 [![Linkedin](https://img.shields.io/badge/Dart-00000F?style=for-the-badge&logo=dart&logoColor=pink&text_color=dcdcdc)]() [![Linkedin](https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=openjdk&logoColor=pink&text_color=dcdcdc)]() [![Linkedin](https://img.shields.io/badge/JavaScript-ff6384?style=for-the-badge&logo=javascript&logoColor=black&text_color=dcdcdc)]()
  
