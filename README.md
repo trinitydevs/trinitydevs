@@ -1,4 +1,5 @@
 
+### Olá, meu nome é Trinity :)
 <h4 align="left"> 
   <strong>Neste espaço atuo como desenvolvedora e concentro meus esforços no desenvolvimento de aplicações full-stack.</strong><br>
 </h4>
@@ -28,6 +29,7 @@ class aboutMe extends Developer {
 class Skills extends Developer {
   languages = ["PHP, Python, Java, Javascript, C & Dart"];
   frameworks = ["CodeIgniter & React"];
+  graphic_tools = ["Figma, Photoshop, Illustrator"];
 }
 ```
 
