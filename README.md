@@ -1,15 +1,35 @@
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-ff6384?style=for-the-badge&logo=LINKEDIN&logoColor=black&text_color=dcdcdc)](https://www.linkedin.com/in/trinitydomingues/) 
 
-[![Trinity GitHub Stats](https://github-readme-stats.vercel.app/api?username=trinitydevs&show_icons=true&bg_color=00000f&icon_color=fd415e&title_color=ff6384&locale=pt-br&border_radius=5.5&text_color=dcdcdc&hide_border=true)]()
+<h4 align="left"> 
+  <strong>Neste espaço atuo como desenvolvedora e concentro meus esforços no desenvolvimento de aplicações full-stack.</strong><br>
+</h4>
+<p>
+    Apaixonada por design, foco na produção artística e digital como front-end no tempo livre.
+</p>
 
-##### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Se ‎‎existe ‎‎uma ‎‎forma ‎‎de ‎‎fazer ‎‎melhor, ‎‎descubra-a.&author=Thomas ‎‎Edison
+)](https://github.com/piyushsuthar/github-readme-quotes)<br>
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-f69d50?style=for-the-badge&logo=LINKEDIN&logoColor=white&text_color=fff)](https://www.linkedin.com/in/trinitydomingues/)
 
-[![](https://img.shields.io/badge/Flutter-ff6384?style=for-the-badge&logo=flutter&logoColor=black&text_color=dcdcdc)]() [![Linkedin](https://img.shields.io/badge/Eclipse-00000F?style=for-the-badge&logo=eclipse&logoColor=pink&text_color=dcdcdc)]() [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=pink&text_color=dcdcdc)]()
+<p align="left"> 
+  <strong>Atualmente, construo grandes projetos juntamente a equipe de dev's da empresa na qual trabalho.</strong>
+</p>
+<hr>
 
-[![Linkedin](https://img.shields.io/badge/Dart-00000F?style=for-the-badge&logo=dart&logoColor=pink&text_color=dcdcdc)]() [![Linkedin](https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=openjdk&logoColor=pink&text_color=dcdcdc)]() [![Linkedin](https://img.shields.io/badge/JavaScript-ff6384?style=for-the-badge&logo=javascript&logoColor=black&text_color=dcdcdc)]()
- 
-##### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```js
+import Developer from "trinitydevs";
 
+class aboutMe extends Developer {
+  name = "Trinity";
+  area = "Full stack developer";
+  work = "Mogiglass";
+  local = "São Paulo";
+}
+
+class Skills extends Developer {
+  languages = ["PHP, Python, Java, Javascript, C & Dart"];
+  frameworks = ["CodeIgniter & React"];
+}
+```
 
 
 
