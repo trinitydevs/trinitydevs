@@ -1,6 +1,6 @@
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-ff6384?style=for-the-badge&logo=LINKEDIN&logoColor=black&text_color=dcdcdc)](https://www.linkedin.com/in/trinitydomingues/) 
 
-[![Trinity GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrinityDN&show_icons=true&bg_color=00000f&icon_color=fd415e&title_color=ff6384&locale=pt-br&border_radius=5.5&text_color=dcdcdc&hide_border=true)]()
+[![Trinity GitHub Stats](https://github-readme-stats.vercel.app/api?username=trinitydevs&show_icons=true&bg_color=00000f&icon_color=fd415e&title_color=ff6384&locale=pt-br&border_radius=5.5&text_color=dcdcdc&hide_border=true)]()
 
 ##### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
