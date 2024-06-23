@@ -1,5 +1,5 @@
 
-### Olá, meu nome é Trinity :)
+### Olá, me chamo Trinity :)
 <h4 align="left"> 
   <strong>Neste espaço atuo como desenvolvedora e concentro meus esforços no desenvolvimento de aplicações full-stack.</strong><br>
 </h4>
