@@ -12,7 +12,7 @@
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-f69d50?style=for-the-badge&logo=LINKEDIN&logoColor=white&text_color=fff)](https://www.linkedin.com/in/trinitydomingues/)
 
 <p align="left"> 
-  <strong>Atualmente, construo grandes projetos juntamente a equipe de dev's da empresa na qual trabalho.</strong>
+  <strong>Atualmente, construo grandes projetos juntamente à equipe de dev's da empresa na qual trabalho.</strong>
 </p>
 <hr>
 
