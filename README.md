@@ -28,7 +28,7 @@ class aboutMe extends Developer {
 
 class Skills extends Developer {
   languages = ["PHP, Python, Java, Javascript, C & Dart"];
-  frameworks = ["CodeIgniter, Flutter & React"];
+  frameworks = ["CodeIgniter, Flutter & React Native"];
   graphic_tools = ["Figma, Photoshop, Illustrator"];
 }
 ```
